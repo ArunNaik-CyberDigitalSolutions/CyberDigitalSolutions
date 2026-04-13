@@ -1,302 +1,281 @@
-<!-- ========================= -->
-<!-- ELITE GITHUB PROFILE README -->
-<!-- ========================= -->
+# Arun Naik — Cyber Digital Solutions
 
-<h1 align="center">Arun Naik</h1>
-<h3 align="center">Cyber Business Analyst | Vendor Risk | IAM | Security Strategy | Governance & Uplift Delivery</h3>
+### Cyber Business Analyst | Vendor Risk | IAM | Security Strategy | Governance & Uplift Delivery
 
-<p align="center">
-  <strong>Turning cyber risk, governance, and security strategy into practical enterprise outcomes.</strong>
-</p>
+**Turning cyber risk, governance, and security strategy into practical enterprise outcomes.**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cyber%20Business%20Analyst-0A192F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vendor%20Risk%20Management-102A43?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IAM-1F3B73?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NIST-16324F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ISO%2FIEC%2027001-1D3557?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Essential%20Eight-274C77?style=for-the-badge" />
-</p>
+![Cyber Business Analyst](https://img.shields.io/badge/Cyber%20Business%20Analyst-0A192F?style=for-the-badge)
+![Vendor Risk Management](https://img.shields.io/badge/Vendor%20Risk%20Management-102A43?style=for-the-badge)
+![IAM](https://img.shields.io/badge/IAM-1F3B73?style=for-the-badge)
+![NIST](https://img.shields.io/badge/NIST-16324F?style=for-the-badge)
+![ISO/IEC 27001](https://img.shields.io/badge/ISO%2FIEC%2027001-1D3557?style=for-the-badge)
+![Essential Eight](https://img.shields.io/badge/Essential%20Eight-274C77?style=for-the-badge)
+![VRMMM](https://img.shields.io/badge/VRMMM-2D6A4F?style=for-the-badge)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-URL)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ArunNaik-CyberDigitalSolutions)
 
 ---
 
-## 🚀 Executive Profile
+## Executive Profile
 
-I’m a **Cyber Business Analyst** focused on helping organisations improve cybersecurity maturity through **Vendor Risk Management (VRM), Identity & Access Management (IAM), cyber governance, control uplift, and enterprise security strategy**.
+I'm a **Cyber Business Analyst** specialising in cyber maturity assessments, vendor risk management, identity governance, and security uplift delivery across enterprise and government environments.
 
-I work across the intersection of **business, cyber risk, and delivery**, translating complex security requirements into:
-
-- **Current state assessments**
-- **Target state workshop outcomes**
-- **Gap analyses**
-- **Roadmaps and uplift initiatives**
-- **Operating models and process flows**
-- **Executive-ready artefacts**
-- **Delivery-ready business requirements**
-
-My focus is not just analysis — it’s helping organisations move from fragmented or reactive cyber practices to **structured, measurable, and defensible cyber maturity**.
+I translate complex security frameworks into **structured, measurable, and defensible maturity outcomes** — bridging Cyber, Risk, Procurement, Architecture, and Business stakeholders from current state to target state.
 
 ---
 
-## 🎯 Core Specialisations
+## Assessment Framework Coverage
 
-- **Vendor Risk Management Maturity Assessments**
-- **VRMMM Current State → Target State Workshops**
-- **Identity & Access Management (IAM)**
-- **Cybersecurity Strategy & Governance**
-- **Risk-Based Control Uplift**
-- **Third-Party / Supply Chain Cyber Risk**
-- **Policy & Standards Modernisation**
-- **Requirements Engineering for Cyber Programs**
-- **Executive Reporting & Stakeholder Alignment**
+| Framework | Focus Area | Maturity Model | Output |
+|---|---|---|---|
+| 🔵 Essential Eight | ASD/ACSC Controls | ML0 → ML3 | Gap Report + Roadmap |
+| 🟠 Vendor Risk Management | Third-Party Risk | Domain Scoring | VRM Assessment Report |
+| 🟣 ISO/IEC 27001:2022 | ISMS Controls | Clause Compliance | Clause Gap Analysis |
+| 🟢 NIST CSF | Cyber Risk Governance | Tier 1–4 | Function-Level Gap Report |
+| 🔴 VRMMM | VRM Maturity | Level 1–5 | Current → Target State |
 
 ---
 
-## 🏆 What I Deliver
+## Flagship Assessment Projects
+
+---
+
+### 1. Essential Eight Assessment
+
+**Repo:** [`essential-eight-assessment`](https://github.com/ArunNaik-CyberDigitalSolutions/essential-eight-assessment)
+
+A structured maturity assessment tool aligned to the **Australian Cyber Security Centre (ACSC) Essential Eight Maturity Model**, covering all eight mitigation strategies across Maturity Levels 0 through 3.
+
+**Eight Strategies Covered:**
+
+| # | Strategy | Maturity Levels |
+|---|---|---|
+| 1 | Application Control | ML0 → ML3 |
+| 2 | Patch Applications | ML0 → ML3 |
+| 3 | Configure Microsoft Office Macro Settings | ML0 → ML3 |
+| 4 | User Application Hardening | ML0 → ML3 |
+| 5 | Restrict Administrative Privileges | ML0 → ML3 |
+| 6 | Patch Operating Systems | ML0 → ML3 |
+| 7 | Multi-Factor Authentication | ML0 → ML3 |
+| 8 | Regular Backups | ML0 → ML3 |
+
+**What it delivers:**
+- Current maturity level scoring per strategy
+- Gap identification against target maturity level
+- Risk-rated uplift recommendations
+- Quick-win vs strategic initiative prioritisation
+- Executive summary output
+
+**Intended users:** Cyber BAs, GRC teams, security architects, CISOs, internal audit
+
+---
+
+### 2. Vendor Risk Management Assessment
+
+**Repo:** [`vendor-risk-management-assessment`](https://github.com/ArunNaik-CyberDigitalSolutions/vendor-risk-management-assessment)
+
+A comprehensive **Vendor Risk Management (VRM) Assessment framework** for evaluating third-party and supply chain cyber risk across inherent risk, control effectiveness, and residual risk dimensions.
+
+**Assessment Domains:**
+
+| Domain | Description |
+|---|---|
+| Vendor Tiering & Classification | Criticality, data access, and dependency scoring |
+| Contractual & Regulatory Controls | Contract clauses, SLAs, right-to-audit, data handling |
+| Cybersecurity Controls Assessment | Vendor-side control maturity review |
+| Incident & Breach Management | Notification obligations, response capability |
+| Concentration Risk | Single-vendor dependency exposure |
+| Ongoing Monitoring | Continuous assurance, reassessment cadence |
+| Offboarding & Exit Management | Data return, access removal, transition risk |
+
+**What it delivers:**
+- Vendor inherent risk scoring
+- Control effectiveness rating
+- Residual risk calculation
+- Risk-rated vendor register output
+- Remediation and treatment plan inputs
+
+**Intended users:** Procurement teams, vendor managers, risk officers, cyber BAs, third-party assurance teams
+
+---
+
+### 3. ISO/IEC 27001:2022 Framework Assessment
+
+**Repo:** [`iso27001-2022-assessment`](https://github.com/ArunNaik-CyberDigitalSolutions/iso27001-2022-assessment)
+
+A **clause-by-clause gap assessment** aligned to the **ISO/IEC 27001:2022** standard, covering all 10 clauses and 93 controls across 4 themes from Annex A.
+
+**Clause Coverage:**
+
+| Clause | Title |
+|---|---|
+| 4 | Context of the Organisation |
+| 5 | Leadership |
+| 6 | Planning |
+| 7 | Support |
+| 8 | Operation |
+| 9 | Performance Evaluation |
+| 10 | Improvement |
+
+**Annex A Control Themes (2022):**
+
+| Theme | Controls |
+|---|---|
+| A.5 — Organisational | 37 controls |
+| A.6 — People | 8 controls |
+| A.7 — Physical | 14 controls |
+| A.8 — Technological | 34 controls |
+
+**Key 2022 updates covered:**
+- 11 new controls (including threat intelligence, ICT readiness, data masking, web filtering, secure coding)
+- Attribute tagging (control type, security properties, cybersecurity concepts, operational capabilities, security domains)
+
+**What it delivers:**
+- Clause-level compliance scoring
+- Annex A control gap analysis
+- Statement of Applicability (SoA) input template
+- ISMS uplift roadmap
+- Audit readiness indicator
+
+**Intended users:** ISMS managers, compliance officers, cyber BAs, internal/external auditors, CISOs
+
+---
+
+### 4. NIST Cybersecurity Framework Assessment
+
+**Repo:** [`nist-csf-assessment`](https://github.com/ArunNaik-CyberDigitalSolutions/nist-csf-assessment)
+
+A **function-level maturity assessment** aligned to the **NIST Cybersecurity Framework (CSF)**, scoring current and target state across all five core functions and 23 categories.
+
+**Core Functions:**
+
+| Function | Categories | Focus |
+|---|---|---|
+| 🔵 Identify | 6 | Asset, risk, governance management |
+| 🟢 Protect | 6 | Safeguards and resilience controls |
+| 🟡 Detect | 3 | Anomaly, monitoring, and detection |
+| 🟠 Respond | 4 | Incident response and communications |
+| 🔴 Recover | 3 | Recovery planning and improvements |
+
+**Maturity Tiers:**
+
+| Tier | Label | Description |
+|---|---|---|
+| Tier 1 | Partial | Ad hoc, reactive |
+| Tier 2 | Risk Informed | Some awareness and intent |
+| Tier 3 | Repeatable | Defined, consistent processes |
+| Tier 4 | Adaptive | Dynamic, continuously improving |
+
+**What it delivers:**
+- Function-level current vs target state scoring
+- Category-level gap analysis
+- Tier-based maturity positioning
+- Prioritised uplift roadmap
+- Executive radar chart summary (visual maturity profile)
+
+**Intended users:** Security architects, CISOs, risk officers, cyber BAs, board-level reporting
+
+---
+
+### 5. VRMMM Risk Assessment (Vendor Risk Management Maturity Model)
+
+**Repo:** [`vrmmm-risk-assessment`](https://github.com/ArunNaik-CyberDigitalSolutions/vrmmm-risk-assessment)
+
+A structured **Vendor Risk Management Maturity Model (VRMMM)** assessment tool for measuring and improving an organisation's maturity in managing third-party and supply chain cyber risk — from initial to optimised capability.
+
+**Maturity Levels:**
+
+| Level | Label | Description |
+|---|---|---|
+| Level 1 | Initial | Ad hoc, no formal VRM processes |
+| Level 2 | Developing | Basic processes, inconsistently applied |
+| Level 3 | Defined | Documented, consistently applied |
+| Level 4 | Managed | Measured, risk-informed decisions |
+| Level 5 | Optimised | Continuous improvement, strategic alignment |
+
+**Assessment Domains:**
+
+| Domain | Description |
+|---|---|
+| Governance & Policy | VRM strategy, policy framework, executive ownership |
+| Vendor Identification & Tiering | Inventory, classification, criticality |
+| Due Diligence & Onboarding | Pre-contract risk assessment, security requirements |
+| Contractual Controls | Security clauses, right-to-audit, data handling obligations |
+| Ongoing Monitoring & Assurance | Periodic reviews, continuous monitoring, questionnaire cadence |
+| Incident & Breach Management | Vendor incident notification, joint response obligations |
+| Offboarding & Exit Management | Secure termination, data return, access revocation |
+| Concentration & Dependency Risk | Single-vendor risk, business continuity exposure |
+
+**What it delivers:**
+- Domain-level maturity scoring (current state)
+- Target state definition per domain
+- Gap heat map across all domains
+- Prioritised uplift initiatives
+- Quick wins vs strategic investment view
+- Workshop-ready facilitation output
+- Executive maturity summary
+
+**Intended users:** Vendor managers, risk officers, procurement leads, CISOs, cyber BAs, third-party assurance teams
+
+---
+
+## Core Specialisations
+
+- Vendor Risk Management Maturity Assessments
+- VRMMM Current State → Target State Workshops
+- Essential Eight Maturity Uplift
+- ISO/IEC 27001:2022 Clause & Control Gap Analysis
+- NIST CSF Maturity Profiling
+- Identity & Access Management (IAM)
+- Cybersecurity Strategy & Governance
+- Third-Party / Supply Chain Cyber Risk
+- Risk-Based Control Uplift
+- Policy & Standards Modernisation
+- Requirements Engineering for Cyber Programs
+- Executive Reporting & Stakeholder Alignment
+
+---
+
+## What I Deliver
 
 - Translate **cyber strategy into practical business outcomes**
 - Turn **maturity assessments into actionable uplift roadmaps**
 - Facilitate workshops that produce **decisions, not just discussion**
 - Build **target states that are achievable, risk-aligned, and business-relevant**
-- Create artefacts that are **clear for executives and useful for delivery teams**
-- Bridge the gap between **Cyber, Risk, Procurement, Architecture, and Business stakeholders**
+- Create artefacts **clear for executives and useful for delivery teams**
+- Bridge the gap between **Cyber, Risk, Procurement, Architecture, and Business**
 
 ---
 
-# 🌟 Flagship Portfolio Projects
+## Frameworks & Methods
 
-> **Note:** Many enterprise and government engagements are confidential. These repositories focus on reusable methods, tools, frameworks, templates, and delivery accelerators.
+**Frameworks:** NIST CSF · ISO/IEC 27001:2022 · Essential Eight · VRMMM · IAM Lifecycle Governance · Risk-Based Control Design
 
----
-
-## 1️⃣ Live VRMMM Gap Calculator
-### 🔗 Repo: `vrmmm-gap-calculator`
-
-A practical tool for calculating the **gap between current state and target state maturity** across Vendor Risk Management domains.
-
-**What it does:**
-- Capture **current state maturity scores**
-- Capture **target state maturity scores**
-- Auto-calculate **maturity gaps**
-- Highlight **priority uplift areas**
-- Generate **quick-win vs strategic initiative views**
-- Support **roadmap input discussions**
-
-**Best use cases:**
-- Target state workshops
-- Gap analysis sessions
-- Uplift prioritisation
-- Executive maturity summaries
-
-**Suggested stack:**
-- **React + TypeScript + Tailwind**
-- Optional export to CSV / PDF
-- Host on **Vercel** or **GitHub Pages**
-
-👉 _This is a standout portfolio asset for Vendor Risk and Cyber BA roles._
+**Delivery Methods:** Current / Target State Assessment · Capability Maturity Modelling · Gap Analysis · Workshop Facilitation · Process Design · Uplift Roadmap Development · Executive Reporting
 
 ---
 
-## 2️⃣ Requirements Traceability Dashboard
-### 🔗 Repo: `requirements-traceability-dashboard`
+## Tools & Platforms
 
-A visual dashboard for mapping cyber requirements across **business needs, risks, controls, evidence, and implementation status**.
-
-**What it does:**
-- Map **requirements → risks → controls → evidence**
-- Track **status by domain / workstream**
-- Show **coverage gaps**
-- Support **assurance and audit readiness**
-- Useful for **IAM, VRM, policy uplift, and cyber transformation programs**
-
-**Key features:**
-- Requirement ID register
-- Control mapping
-- Evidence status tracker
-- Owner and due date view
-- Filtering by domain / priority / status
-
-**Suggested stack:**
-- **React + Recharts + local JSON data**
-- Optional CSV import
-- Host on **Vercel**
-
-👉 _This looks premium to recruiters because it demonstrates BA + governance + delivery maturity._
+`Azure DevOps` · `Jira` · `Confluence` · `Microsoft PowerPoint` · `Excel / Assessment Workbooks` · `Visio` · `Lucidchart` · `Miro` · `SharePoint` · `Markdown / GitHub` · `React / TypeScript` · `Python / Streamlit`
 
 ---
 
-## 3️⃣ Workshop Facilitation Toolkit
-### 🔗 Repo: `workshop-facilitation-toolkit`
+## Let's Connect
 
-A reusable toolkit for running **current state, target state, and decision-driven cyber workshops**.
+If you work in **cybersecurity, GRC, vendor risk, IAM, or enterprise cyber transformation**, I'm open to connecting around:
 
-**What it includes:**
-- Workshop agenda templates
-- Stakeholder mapping
-- Decision log templates
-- Current state validation prompts
-- Target state facilitation questions
-- Gap analysis capture sheets
-- RACI and ownership templates
-- Risks / assumptions / dependencies tracker
+- Maturity assessments and gap analysis
+- Target state workshops and uplift roadmaps
+- Vendor and third-party risk engagements
+- Governance, assurance, and operating model design
+- Contract and consulting opportunities
 
-**Ideal for:**
-- VRMMM workshops
-- IAM workshops
-- Governance uplift workshops
-- Procurement / third-party risk workshops
-- Strategy and target state sessions
-
-**Suggested format:**
-- Markdown docs
-- PowerPoint templates
-- Excel / CSV templates
-- Optional mini static site landing page
-
-👉 _This is your “consulting toolkit” repo and can become a signature asset._
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-URL)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
 
 ---
 
-## 4️⃣ Risk Register Analyser
-### 🔗 Repo: `risk-register-analyser`
-
-A practical analyser for reviewing and visualising cyber risk register data to identify trends, concentration, gaps, and remediation priorities.
-
-**What it does:**
-- Import risk register data (CSV / XLSX)
-- Categorise by **domain, severity, owner, treatment status**
-- Highlight **high-risk concentration areas**
-- Identify **stale or overdue risks**
-- Show **control or evidence gaps**
-- Support executive and delivery reporting
-
-**Key outputs:**
-- Open vs closed risk trends
-- Severity heatmap
-- Risk owner concentration
-- Treatment plan status
-- “Aging risks” view
-
-**Suggested stack:**
-- **Python + Streamlit** or **React + Charts**
-- Host on **Streamlit Cloud** or **Vercel**
-
-👉 _This is extremely strong for cyber governance / GRC / BA / assurance positioning._
-
----
-
-# 🧠 Featured Repositories
-
-> Replace `YOUR-GITHUB-USERNAME` with your actual GitHub username once created.
-
-- 🔹 **[vrmmm-gap-calculator](https://github.com/YOUR-GITHUB-USERNAME/vrmmm-gap-calculator)**  
-  Live maturity gap calculator for Vendor Risk Management current state vs target state analysis.
-
-- 🔹 **[requirements-traceability-dashboard](https://github.com/YOUR-GITHUB-USERNAME/requirements-traceability-dashboard)**  
-  Visual dashboard linking requirements, controls, evidence, risks, and implementation status.
-
-- 🔹 **[workshop-facilitation-toolkit](https://github.com/YOUR-GITHUB-USERNAME/workshop-facilitation-toolkit)**  
-  A reusable cyber workshop pack for target state, gap analysis, and decision capture.
-
-- 🔹 **[risk-register-analyser](https://github.com/YOUR-GITHUB-USERNAME/risk-register-analyser)**  
-  A data-driven analyser for cyber risk registers, treatment status, trends, and executive insights.
-
----
-
-## 🧩 Frameworks & Methods
-
-### Frameworks
-- NIST Cybersecurity Framework (CSF)
-- ISO/IEC 27001:2022
-- Essential Eight
-- Vendor Risk Management maturity models
-- IAM lifecycle governance
-- Risk-based control design and assessment
-
-### Delivery Methods
-- Current state / target state assessments
-- Capability maturity modelling
-- Gap analysis
-- Workshop facilitation and decision capture
-- Process design and operating model definition
-- Uplift roadmap development
-- Executive reporting and governance support
-
----
-
-## 🛠️ Tools & Platforms
-
-- **Azure DevOps**
-- **Jira / Confluence**
-- **Microsoft PowerPoint**
-- **Excel / Assessment Workbooks**
-- **Visio / Lucidchart / Miro**
-- **SharePoint**
-- **Markdown / GitHub**
-- **React / TypeScript (for delivery accelerators)**
-- **Python / Streamlit (for analytical tools)**
-
----
-
-## 📈 Current Focus
-
-I’m currently building practical, reusable cyber delivery accelerators for:
-
-- **Vendor Risk Management Maturity Assessments**
-- **Target State Workshop Enablement**
-- **Requirements Traceability**
-- **Risk Register Analytics**
-- **Cyber Governance Uplift**
-- **Third-Party Risk & Supply Chain Security**
-- **IAM Process and Governance Improvements**
-
----
-
-## 🤝 Ideal Opportunities
-
-I’m especially interested in opportunities involving:
-
-- Cyber Business Analysis
-- Vendor / Third-Party Risk Management
-- IAM transformation
-- Cyber governance and control uplift
-- Security strategy and roadmap delivery
-- Government and enterprise cyber transformation
-- GRC, assurance, and operating model design
-
----
-
-## 📬 Let’s Connect
-
-If you work in **cybersecurity, GRC, IAM, vendor risk, enterprise transformation, or cyber delivery**, I’m always open to connecting around:
-
-- strategic cyber initiatives
-- maturity assessments
-- target state workshops
-- uplift roadmaps
-- governance and assurance
-- contract and consulting opportunities
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL"><strong>LinkedIn</strong></a> |
-  <a href="mailto:YOUR-EMAIL@example.com"><strong>Email</strong></a> |
-  <a href="https://github.com/YOUR-GITHUB-USERNAME"><strong>GitHub</strong></a>
-</p>
-
----
-
-## ⚡ Positioning Statement
-
-**Cyber Business Analyst bridging cyber risk, governance, and delivery — turning strategy into measurable enterprise outcomes.**
+> **Cyber Business Analyst bridging cyber risk, governance, and delivery — turning strategy into measurable enterprise outcomes.**
