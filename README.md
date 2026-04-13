@@ -1,6 +1,6 @@
 # Arun Naik — Cyber Digital Solutions
 
-### Cyber Business Analyst | Vendor Risk | IAM | Security Strategy | Governance & Uplift Delivery
+### Cyber Business Analyst | Supply Chain Risk | IAM | Security Strategy | Governance, Risk and Compliance Uplift & Delivery
 
 **Turning cyber risk, governance, and security strategy into practical enterprise outcomes.**
 
