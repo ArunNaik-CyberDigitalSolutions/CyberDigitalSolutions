@@ -1,126 +1,221 @@
-<h1 align="center">Hi, I'm Arun 👋</h1>
-<h3 align="center">Cyber Business Analyst | Vendor Risk | IAM | Cyber Strategy | Governance & Uplift Delivery</h3>
+<!-- ========================= -->
+<!-- ELITE GITHUB PROFILE README -->
+<!-- ========================= -->
+
+<h1 align="center">Arun Naik</h1>
+<h3 align="center">Cyber Business Analyst | Vendor Risk | IAM | Security Strategy | Governance & Uplift Delivery</h3>
 
 <p align="center">
-  I help organisations turn cyber risk, governance, and security strategy into practical business outcomes.
+  <strong>Turning cyber risk, governance, and security strategy into practical enterprise outcomes.</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL">LinkedIn</a> •
-  <a href="mailto:YOUR-EMAIL@example.com">Email</a> •
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">GitHub</a>
+  <img src="https://img.shields.io/badge/Cyber%20Business%20Analyst-0A192F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vendor%20Risk%20Management-102A43?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IAM-1F3B73?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NIST-16324F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ISO%2FIEC%2027001-1D3557?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Essential%20Eight-274C77?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR-EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR-GITHUB-USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Executive Profile
 
-I’m a **Cyber Business Analyst** focused on delivering practical, enterprise-grade cybersecurity outcomes across **Vendor Risk Management, Identity & Access Management (IAM), cyber governance, security strategy, and uplift programs**.
+I’m a **Cyber Business Analyst** focused on helping organisations improve cybersecurity maturity through **Vendor Risk Management (VRM), Identity & Access Management (IAM), cyber governance, control uplift, and enterprise security strategy**.
 
-I work at the intersection of **business, risk, and technology** — translating complex cyber requirements into **target states, operating models, roadmaps, workshop outcomes, controls, and executive-ready artefacts**.
+I work across the intersection of **business, cyber risk, and delivery**, translating complex security requirements into:
 
-My focus is not just documenting requirements — it’s helping organisations move from fragmented or reactive security practices to **structured, measurable, and defensible cyber maturity**.
+- **Current state assessments**
+- **Target state workshop outcomes**
+- **Gap analyses**
+- **Roadmaps and uplift initiatives**
+- **Operating models and process flows**
+- **Executive-ready artefacts**
+- **Delivery-ready business requirements**
+
+My focus is not just analysis — it’s helping organisations move from fragmented or reactive cyber practices to **structured, measurable, and defensible cyber maturity**.
 
 ---
 
-## 🎯 What I Specialise In
+## 🎯 Core Specialisations
 
-- **Vendor Risk Management (VRM) Maturity Assessments**
-  - Current state assessments
-  - Target state workshops
-  - Gap analysis
-  - Uplift roadmap development
-
+- **Vendor Risk Management Maturity Assessments**
+- **VRMMM Current State → Target State Workshops**
 - **Identity & Access Management (IAM)**
-  - IAM strategy and operating models
-  - Joiner / mover / leaver processes
-  - Onboarding / offboarding improvements
-  - Access governance and lifecycle alignment
-
 - **Cybersecurity Strategy & Governance**
-  - Security uplift programs
-  - Executive and board-ready reporting
-  - Policy and standards modernisation
-  - Risk-based cyber transformation planning
-
-- **Control Framework Alignment**
-  - **NIST Cybersecurity Framework (CSF)**
-  - **ISO/IEC 27001:2022**
-  - **Essential Eight**
-  - Risk and control maturity models
-
-- **Enterprise Delivery**
-  - Workshop facilitation
-  - Stakeholder alignment
-  - Target state design
-  - Requirements elicitation
-  - Process design and roadmap prioritisation
+- **Risk-Based Control Uplift**
+- **Third-Party / Supply Chain Cyber Risk**
+- **Policy & Standards Modernisation**
+- **Requirements Engineering for Cyber Programs**
+- **Executive Reporting & Stakeholder Alignment**
 
 ---
 
-## 🏆 Career Highlights
+## 🏆 What I Deliver
 
-- Delivered **current state cyber maturity assessments** with stakeholder-agreed scoring and evidence-backed findings
-- Developed **target state workshop approaches** to define future-state cyber capabilities aligned to business risk and operational feasibility
-- Supported **IAM uplift initiatives**, including onboarding/offboarding workshops and operating model improvements
-- Produced **executive-ready security strategies and roadmaps** under tight governance and delivery deadlines
-- Led or supported **policy and standards uplift** aligned to **NIST**, **ISO/IEC 27001:2022**, and **Essential Eight**
-- Built **integrated maturity and assurance reporting** for executive stakeholders, translating technical gaps into business decisions
-- Designed **procurement and supply chain cyber risk process flows** for ICT and infrastructure engagements
-- Facilitated cross-functional workshops across **Cyber, Procurement, Risk, Architecture, Operations, Legal, and Business SMEs**
-
----
-
-## 💼 Featured Work / Portfolio Themes
-
-> *Note: Many enterprise and government engagements are confidential. This profile focuses on reusable methods, frameworks, templates, and delivery approaches rather than sensitive client artefacts.*
-
-### 🔹 Vendor Risk Management Maturity Toolkit
-A structured toolkit for running **current state and target state vendor risk maturity assessments**, including:
-- maturity domains and scoring guidance
-- evidence capture approach
-- workshop facilitation model
-- target state decision criteria
-- uplift roadmap inputs
-
-### 🔹 IAM Strategy & Operating Model Pack
-A practical collection of BA and strategy artefacts for **Identity & Access Management uplift**, including:
-- onboarding / offboarding process flows
-- target state capability views
-- role governance concepts
-- implementation considerations
-- stakeholder workshop templates
-
-### 🔹 Cyber Governance Uplift Framework
-A reusable framework for modernising cyber governance through:
-- policy and standards alignment
-- control mapping to leading frameworks
-- governance gap analysis
-- prioritised uplift planning
-- executive presentation structures
-
-### 🔹 Procurement & Supply Chain Cyber Risk Process Design
-An end-to-end process design approach for embedding cybersecurity into:
-- sourcing and procurement
-- third-party onboarding
-- contract review
-- assurance checkpoints
-- ongoing vendor lifecycle governance
-
----
-
-## 📈 How I Add Value
-
-- Translate **cyber strategy into delivery-ready business artefacts**
-- Turn **maturity assessments into actionable roadmaps**
-- Bridge the gap between **technical cyber teams and business stakeholders**
+- Translate **cyber strategy into practical business outcomes**
+- Turn **maturity assessments into actionable uplift roadmaps**
 - Facilitate workshops that produce **decisions, not just discussion**
-- Design target states that are **risk-aligned, practical, and achievable**
-- Create outputs that are **clear enough for executives and detailed enough for delivery teams**
+- Build **target states that are achievable, risk-aligned, and business-relevant**
+- Create artefacts that are **clear for executives and useful for delivery teams**
+- Bridge the gap between **Cyber, Risk, Procurement, Architecture, and Business stakeholders**
 
 ---
 
-## 🧠 Core Frameworks & Methods
+# 🌟 Flagship Portfolio Projects
+
+> **Note:** Many enterprise and government engagements are confidential. These repositories focus on reusable methods, tools, frameworks, templates, and delivery accelerators.
+
+---
+
+## 1️⃣ Live VRMMM Gap Calculator
+### 🔗 Repo: `vrmmm-gap-calculator`
+
+A practical tool for calculating the **gap between current state and target state maturity** across Vendor Risk Management domains.
+
+**What it does:**
+- Capture **current state maturity scores**
+- Capture **target state maturity scores**
+- Auto-calculate **maturity gaps**
+- Highlight **priority uplift areas**
+- Generate **quick-win vs strategic initiative views**
+- Support **roadmap input discussions**
+
+**Best use cases:**
+- Target state workshops
+- Gap analysis sessions
+- Uplift prioritisation
+- Executive maturity summaries
+
+**Suggested stack:**
+- **React + TypeScript + Tailwind**
+- Optional export to CSV / PDF
+- Host on **Vercel** or **GitHub Pages**
+
+👉 _This is a standout portfolio asset for Vendor Risk and Cyber BA roles._
+
+---
+
+## 2️⃣ Requirements Traceability Dashboard
+### 🔗 Repo: `requirements-traceability-dashboard`
+
+A visual dashboard for mapping cyber requirements across **business needs, risks, controls, evidence, and implementation status**.
+
+**What it does:**
+- Map **requirements → risks → controls → evidence**
+- Track **status by domain / workstream**
+- Show **coverage gaps**
+- Support **assurance and audit readiness**
+- Useful for **IAM, VRM, policy uplift, and cyber transformation programs**
+
+**Key features:**
+- Requirement ID register
+- Control mapping
+- Evidence status tracker
+- Owner and due date view
+- Filtering by domain / priority / status
+
+**Suggested stack:**
+- **React + Recharts + local JSON data**
+- Optional CSV import
+- Host on **Vercel**
+
+👉 _This looks premium to recruiters because it demonstrates BA + governance + delivery maturity._
+
+---
+
+## 3️⃣ Workshop Facilitation Toolkit
+### 🔗 Repo: `workshop-facilitation-toolkit`
+
+A reusable toolkit for running **current state, target state, and decision-driven cyber workshops**.
+
+**What it includes:**
+- Workshop agenda templates
+- Stakeholder mapping
+- Decision log templates
+- Current state validation prompts
+- Target state facilitation questions
+- Gap analysis capture sheets
+- RACI and ownership templates
+- Risks / assumptions / dependencies tracker
+
+**Ideal for:**
+- VRMMM workshops
+- IAM workshops
+- Governance uplift workshops
+- Procurement / third-party risk workshops
+- Strategy and target state sessions
+
+**Suggested format:**
+- Markdown docs
+- PowerPoint templates
+- Excel / CSV templates
+- Optional mini static site landing page
+
+👉 _This is your “consulting toolkit” repo and can become a signature asset._
+
+---
+
+## 4️⃣ Risk Register Analyser
+### 🔗 Repo: `risk-register-analyser`
+
+A practical analyser for reviewing and visualising cyber risk register data to identify trends, concentration, gaps, and remediation priorities.
+
+**What it does:**
+- Import risk register data (CSV / XLSX)
+- Categorise by **domain, severity, owner, treatment status**
+- Highlight **high-risk concentration areas**
+- Identify **stale or overdue risks**
+- Show **control or evidence gaps**
+- Support executive and delivery reporting
+
+**Key outputs:**
+- Open vs closed risk trends
+- Severity heatmap
+- Risk owner concentration
+- Treatment plan status
+- “Aging risks” view
+
+**Suggested stack:**
+- **Python + Streamlit** or **React + Charts**
+- Host on **Streamlit Cloud** or **Vercel**
+
+👉 _This is extremely strong for cyber governance / GRC / BA / assurance positioning._
+
+---
+
+# 🧠 Featured Repositories
+
+> Replace `YOUR-GITHUB-USERNAME` with your actual GitHub username once created.
+
+- 🔹 **[vrmmm-gap-calculator](https://github.com/YOUR-GITHUB-USERNAME/vrmmm-gap-calculator)**  
+  Live maturity gap calculator for Vendor Risk Management current state vs target state analysis.
+
+- 🔹 **[requirements-traceability-dashboard](https://github.com/YOUR-GITHUB-USERNAME/requirements-traceability-dashboard)**  
+  Visual dashboard linking requirements, controls, evidence, risks, and implementation status.
+
+- 🔹 **[workshop-facilitation-toolkit](https://github.com/YOUR-GITHUB-USERNAME/workshop-facilitation-toolkit)**  
+  A reusable cyber workshop pack for target state, gap analysis, and decision capture.
+
+- 🔹 **[risk-register-analyser](https://github.com/YOUR-GITHUB-USERNAME/risk-register-analyser)**  
+  A data-driven analyser for cyber risk registers, treatment status, trends, and executive insights.
+
+---
+
+## 🧩 Frameworks & Methods
 
 ### Frameworks
 - NIST Cybersecurity Framework (CSF)
@@ -128,71 +223,80 @@ An end-to-end process design approach for embedding cybersecurity into:
 - Essential Eight
 - Vendor Risk Management maturity models
 - IAM lifecycle governance
-- Risk-based control assessment models
+- Risk-based control design and assessment
 
 ### Delivery Methods
 - Current state / target state assessments
 - Capability maturity modelling
 - Gap analysis
 - Workshop facilitation and decision capture
-- Process mapping and control design
+- Process design and operating model definition
 - Uplift roadmap development
-- Executive reporting and stakeholder alignment
+- Executive reporting and governance support
 
 ---
 
-## 🛠️ Tools I Use
+## 🛠️ Tools & Platforms
 
 - **Azure DevOps**
-- **Microsoft PowerPoint**
-- **Excel / assessment workbooks**
-- **Visio / Lucidchart / Miro**
 - **Jira / Confluence**
+- **Microsoft PowerPoint**
+- **Excel / Assessment Workbooks**
+- **Visio / Lucidchart / Miro**
 - **SharePoint**
-- **Process mapping & documentation tools**
+- **Markdown / GitHub**
+- **React / TypeScript (for delivery accelerators)**
+- **Python / Streamlit (for analytical tools)**
 
 ---
 
-## 📌 Current Focus
+## 📈 Current Focus
 
-I’m currently focused on:
-- **Vendor Risk Management target state workshops**
-- **IAM uplift and governance maturity**
-- **Cyber policy and standards modernisation**
-- **Third-party and supply chain cyber risk integration**
-- **Security strategy translated into practical delivery outcomes**
+I’m currently building practical, reusable cyber delivery accelerators for:
+
+- **Vendor Risk Management Maturity Assessments**
+- **Target State Workshop Enablement**
+- **Requirements Traceability**
+- **Risk Register Analytics**
+- **Cyber Governance Uplift**
+- **Third-Party Risk & Supply Chain Security**
+- **IAM Process and Governance Improvements**
 
 ---
 
-## 🤝 Ideal Roles / Collaborations
+## 🤝 Ideal Opportunities
 
-I’m particularly interested in opportunities involving:
+I’m especially interested in opportunities involving:
+
 - Cyber Business Analysis
-- Vendor Risk / Third-Party Risk Management
+- Vendor / Third-Party Risk Management
 - IAM transformation
 - Cyber governance and control uplift
 - Security strategy and roadmap delivery
-- Government and enterprise cyber transformation programs
+- Government and enterprise cyber transformation
+- GRC, assurance, and operating model design
 
 ---
 
 ## 📬 Let’s Connect
 
-If you work in **cybersecurity, GRC, IAM, vendor risk, or enterprise transformation**, I’m always open to connecting on:
+If you work in **cybersecurity, GRC, IAM, vendor risk, enterprise transformation, or cyber delivery**, I’m always open to connecting around:
+
 - strategic cyber initiatives
 - maturity assessments
-- target state and roadmap delivery
-- security governance uplift
+- target state workshops
+- uplift roadmaps
+- governance and assurance
 - contract and consulting opportunities
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL" target="_blank"><strong>LinkedIn</strong></a> |
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL"><strong>LinkedIn</strong></a> |
   <a href="mailto:YOUR-EMAIL@example.com"><strong>Email</strong></a> |
   <a href="https://github.com/YOUR-GITHUB-USERNAME"><strong>GitHub</strong></a>
 </p>
 
 ---
 
-## ⚡ Profile Positioning
+## ⚡ Positioning Statement
 
-**Cyber Business Analyst who bridges cyber risk, governance, and delivery — turning strategy into measurable enterprise outcomes.**
+**Cyber Business Analyst bridging cyber risk, governance, and delivery — turning strategy into measurable enterprise outcomes.**
