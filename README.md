@@ -85,7 +85,7 @@ This assessment recognises that modern cyber risk does not stop at the direct ve
 
 | Lens | Focus | Output |
 |---|---|---|
-| 🔵 VRM Control Assessment | Control effectiveness across the vendor lifecycle | Risk-rated vendor control scorecard |
+| 🔵 Vendor Risk Management Control Assessment | Control effectiveness across the vendor lifecycle | Risk-rated vendor control scorecard |
 | 🟠 VRMMM Maturity Assessment | Organisational maturity in managing vendor risk | Current state → target state maturity profile |
 | 🔴 Supply Chain Cyber Risk | Third-party, nth-party, and supply chain exposure | Supply chain risk register and concentration analysis |
 
@@ -104,7 +104,7 @@ A foundational input to all three lenses is vendor tiering — classifying vendo
 
 ---
 
-**Lens 1 — VRM Control Assessment**
+**Lens 1 — Vendor Risk Management Control Assessment**
 
 Evaluates the effectiveness of cybersecurity controls across the full vendor lifecycle for direct (first-party) vendors:
 
@@ -121,7 +121,7 @@ Evaluates the effectiveness of cybersecurity controls across the full vendor lif
 
 ---
 
-**Lens 2 — VRMMM Maturity Assessment**
+**Lens 2 — Vendor Risk Management Maturity Model(VRMMM) Assessment**
 
 Evaluates the organisation's capability maturity in managing vendor risk — not just whether controls exist, but how consistently, strategically, and repeatably they are applied:
 
